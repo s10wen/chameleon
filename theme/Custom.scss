@@ -1,0 +1,26 @@
+/**********************************************/
+/* Chameleon
+/* Chrome Dev Tools Theme
+/* https://github.com/simonowendesign/chameleon
+/**********************************************/
+
+/* Design */
+@import "design/colours";
+@import "design/animations";
+
+/* UI */
+@import "ui/toolbar";
+@import "ui/main-status-bar";
+
+/* Tabs */
+@import "tabs/audits";
+@import "tabs/console";
+@import "tabs/elements";
+@import "tabs/network";
+@import "tabs/profiles";
+@import "tabs/resources";
+@import "tabs/sources";
+@import "tabs/timeline";
+
+/* Special Features */
+@import "special-features/scrollbars";
