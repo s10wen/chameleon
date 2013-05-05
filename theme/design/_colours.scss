@@ -5,3 +5,20 @@
 /**********************************************/
 
 /* _colours.scss */
+
+/* Define Colours */
+$pink:        hsl( 332,  84%,  48% ) !important;
+$green_light: hsl(  78,  92%,  47% ) !important;
+$blue_light:  hsl( 187,  71%,  68% ) !important;
+$purple:      hsl( 262, 100%,  73% ) !important;
+$yellow:      hsl(  53,  66%,  71% ) !important;
+$red_dark:    hsl(   1,  80%,  43% ) !important;
+
+$white:       hsl(   0,   0%, 100% ) !important;
+$grey_light:  hsl(   0,   0%,  80% ) !important;
+$grey_dark:   hsl(   0,   0%,  20% ) !important;
+$black:       hsl(   0,   0%,   0% ) !important;
+
+/* Toolbar */
+$toolbar_color:      $grey_light;
+$toolbar_background: $grey_dark;

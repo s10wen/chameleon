@@ -10,6 +10,8 @@
 /* https://github.com/simonowendesign/chameleon
 /**********************************************/
 /* _colours.scss */
+/* Define Colours */
+/* Toolbar */
 /**********************************************/
 /* Chameleon
 /* Chrome Dev Tools Theme
@@ -23,6 +25,13 @@
 /* https://github.com/simonowendesign/chameleon
 /**********************************************/
 /* _toolbar.scss */
+#-webkit-web-inspector #toolbar {
+  background: #333333 !important;
+}
+#-webkit-web-inspector .toolbar-label {
+  color: #cccccc !important;
+}
+
 /**********************************************/
 /* Chameleon
 /* Chrome Dev Tools Theme

@@ -5,3 +5,14 @@
 /**********************************************/
 
 /* _toolbar.scss */
+#-webkit-web-inspector {
+
+#toolbar {
+	background: $toolbar_background;
+}
+
+.toolbar-label {
+	color: $toolbar_color;
+}
+
+}
